@@ -44,7 +44,7 @@ It also features navigation filters to view **All**, **Completed**, or **Pending
 
 ## 🖼️ Screenshots
 
-> *(https://github.com/mnesa/to-do-list/blob/main/to-do.png)*
+> ![Preview](https://github.com/mnesa/to-do-list/blob/main/to-do.png)
 
 
 
